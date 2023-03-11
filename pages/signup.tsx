@@ -75,7 +75,7 @@ const SignUp: React.FC<Props> = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-gray-100">
+    <div className="flex flex-col items-center justify-center h-screen bg-gray-50">
       <img src="kiwify.png" className="mx-auto h-12 w-auto" />
       <h2 className="mt-6 text-center text-3xl leading-9 font-extrabold text-gray-900">
         Criar nova conta
